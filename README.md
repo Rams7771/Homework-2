@@ -1,4 +1,4 @@
-# Homework-4-Pandas-Challenge
+# Homework-2-VBA-Challenge
 Title: VBA Homework 2 Challenge
 
 Description: This assignment shows our knowledge of using VBA
